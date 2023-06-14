@@ -30,7 +30,7 @@ const TextNotification = (props : NotificationProps) =>{
         <div className='NotificationContainer'>
             <div className='NotificationImg'>
                 <div className='NotificationImgContainer'>
-                    <img onClick={navigateToInboxThread} src="/public/img-box.svg" alt="" className='NotificationImg__img'/>
+                    <img onClick={navigateToInboxThread} src="https://www.svgrepo.com/show/457965/img-box.svg" alt="" className='NotificationImg__img'/>
                 </div>
             </div>
             <div className='NotificationContent'>
